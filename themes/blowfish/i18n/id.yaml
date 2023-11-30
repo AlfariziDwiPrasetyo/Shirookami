@@ -41,6 +41,7 @@ error:
 footer:
   dark_appearance: "Beralih ke tampilan gelap"
   light_appearance: "Beralih ke tampilan terang"
+  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Theme }}"
 
 list:
   externalurl_title: "Tautan ke situs eksternal"
