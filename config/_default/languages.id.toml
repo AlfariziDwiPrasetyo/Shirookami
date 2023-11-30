@@ -1,0 +1,28 @@
+languageCode = "id"
+languageName = "Indonesian"
+weight = 1
+title = "Shirookami"
+
+
+[params]
+  displayName = "ID"
+  isoCode = "id"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/ookami-50px.png"
+  # secondaryLogo = "PATH"
+  # description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Alfarizi Dwi Prasetyo"
+  image = "img/alfarizi.png"
+  headline = "An ordinary Man"
+  bio = "Life like you want to"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/al-farizi-dwi-prasetyo-29a310197?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+    { instagram = "https://www.instagram.com/alfariziiprasetyo/" },
+    { github = "https://github.com/AlfariziDwiPrasetyo" },
+  ]
+
+  
