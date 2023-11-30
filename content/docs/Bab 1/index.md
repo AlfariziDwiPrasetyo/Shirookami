@@ -1,9 +1,9 @@
 ---
 title: "Bab 1 Konsep Dasar"
-date: 2020-08-08
+date: 2023-11-22
 draft: false
 description: "Learn how to build Blowfish manually."
-slug: "advanced-customisation"
+slug: "konsep-dasar"
 tags: ["Sistem informasi"]
 series: ["Sistem Informasi"]
 series_order: 1
