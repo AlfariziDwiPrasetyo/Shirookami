@@ -9,9 +9,7 @@ cascade:
 ---
 
 {{< lead >}}
-Kumpulan tulisan tulisan yang saya curahkan
+Kumpulan tulisan saya dari hasil pemikiran, pengalaman, dan refleksi pribadi yang saya abadikan dalam setiap kata
 {{< /lead >}}
-
-Di bagian ini, Anda akan menemukan semua tulisan tulisan saya
 
 ---
