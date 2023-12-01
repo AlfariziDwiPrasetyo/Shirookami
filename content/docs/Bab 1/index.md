@@ -122,12 +122,12 @@ Teknologi informasi telah merevolusi cara kita mengakses, menyimpan, dan mempros
 
 Berikut adalah beberapa peran utama Sistem Informasi bagi manajemen:
 
-1. Pengumpulan dan Penyimpanan Data: Sistem Informasi mengumpulkan, menyimpan, dan mengelola data dari berbagai sumber dalam satu tempat yang terpusat. Hal ini memungkinkan manajemen untuk memiliki akses cepat dan mudah ke informasi yang relevan.
+1. **Pengumpulan dan Penyimpanan Data:** Sistem Informasi mengumpulkan, menyimpan, dan mengelola data dari berbagai sumber dalam satu tempat yang terpusat. Hal ini memungkinkan manajemen untuk memiliki akses cepat dan mudah ke informasi yang relevan.
 
-2. Pengolahan Data: Sistem Informasi memproses data menjadi informasi yang bermakna. Ini melibatkan analisis, perhitungan, penggabungan data, dan penyajian data dalam format yang lebih mudah dimengerti.
+2. **Pengolahan Data:** Sistem Informasi memproses data menjadi informasi yang bermakna. Ini melibatkan analisis, perhitungan, penggabungan data, dan penyajian data dalam format yang lebih mudah dimengerti.
 
-3. Pemberian Laporan: Sistem Informasi dapat menghasilkan laporan dan informasi yang relevan bagi manajemen. Ini dapat berupa laporan keuangan, laporan kinerja, atau laporan berdasarkan berbagai parameter yang dibutuhkan oleh manajemen untuk pemantauan dan evaluasi.
+3. **Pemberian Laporan:** Sistem Informasi dapat menghasilkan laporan dan informasi yang relevan bagi manajemen. Ini dapat berupa laporan keuangan, laporan kinerja, atau laporan berdasarkan berbagai parameter yang dibutuhkan oleh manajemen untuk pemantauan dan evaluasi.
 
-4. Dukungan dalam Pengambilan Keputusan: Sistem Informasi menyediakan informasi yang diperlukan bagi manajemen untuk membuat keputusan yang lebih baik dan lebih terinformasi. Ini membantu manajemen dalam perencanaan strategis, pengembangan produk, alokasi sumber daya, dan banyak lagi.
+4. **Dukungan dalam Pengambilan Keputusan:** Sistem Informasi menyediakan informasi yang diperlukan bagi manajemen untuk membuat keputusan yang lebih baik dan lebih terinformasi. Ini membantu manajemen dalam perencanaan strategis, pengembangan produk, alokasi sumber daya, dan banyak lagi.
 
-5. Pemantauan dan Pengendalian Kinerja: Sistem Informasi dapat digunakan untuk memantau kinerja organisasi, departemen, atau individu. Manajemen dapat melihat data real-time dan historis untuk mengevaluasi pencapaian tujuan dan target.
+5. **Pemantauan dan Pengendalian Kinerja:** Sistem Informasi dapat digunakan untuk memantau kinerja organisasi, departemen, atau individu. Manajemen dapat melihat data real-time dan historis untuk mengevaluasi pencapaian tujuan dan target.

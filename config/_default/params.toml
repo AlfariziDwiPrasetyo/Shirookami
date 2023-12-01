@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "marvel"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = true
 
@@ -17,8 +17,8 @@ mainSections = ["docs"]
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "/img/tokyo-night.jpg"
-defaultFeaturedImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/img/night.jpg"
+defaultFeaturedImage = "/img/tokyo-night-darken.jpg"
 
 highlightCurrentMenuArea = true
 smartTOC = true
@@ -36,7 +36,7 @@ smartTOCHideUnfocusedChildren = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/tokyo-night.jpg" # used in: hero, and card
+  homepageImage = "/img/night-sky.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 12
   showMoreLink = true
