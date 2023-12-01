@@ -8,8 +8,6 @@ tags: ["Sistem informasi"]
 series: ["Sistem Informasi"]
 series_order: 3
 showAuthor: true
-authors:
-  - "alfarizi"
 showAuthorsBadges : false
 ---
 

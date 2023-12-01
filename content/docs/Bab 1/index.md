@@ -8,9 +8,7 @@ tags: ["Sistem informasi"]
 series: ["Sistem Informasi"]
 series_order: 1
 showAuthor: true
-authors:
-  - "alfarizi"
-showAuthorsBadges : true 
+showAuthorsBadges : false 
 ---
 
 ## Konsep Dasar Sistem
