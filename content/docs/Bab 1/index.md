@@ -2,7 +2,7 @@
 title: "Bab 1 Konsep Dasar"
 date: 2023-11-22
 draft: false
-description: "Learn how to build Blowfish manually."
+description: "Konsep Dasar"
 slug: "konsep-dasar"
 tags: ["Sistem informasi"]
 series: ["Sistem Informasi"]
