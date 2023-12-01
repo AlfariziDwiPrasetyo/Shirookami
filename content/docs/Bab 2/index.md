@@ -7,6 +7,10 @@ slug: "Tinjauan-umum-pengembangan-sistem"
 tags: ["Sistem informasi"]
 series: ["Sistem Informasi"]
 series_order: 2
+showAuthor: true
+authors:
+  - "alfarizi"
+showAuthorsBadges : false
 ---
 
 ## Definisi Pengembangan Sistem
