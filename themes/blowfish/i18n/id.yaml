@@ -48,7 +48,7 @@ list:
   no_articles: "Belum ada artikel untuk dicantumkan di sini."
 
 nav:
-  scroll_to_top_title: "Gulir ke atas"
+  scroll_to_top_title: "Scroll ke atas"
   skip_to_main: "Lewati ke konten utama"
 
 search:
