@@ -1,6 +1,6 @@
 ---
 title: "Bab 1 Konsep Dasar"
-date: 2023-11-22
+date: 2023-11-21
 draft: false
 description: "Konsep Dasar"
 slug: "konsep-dasar"

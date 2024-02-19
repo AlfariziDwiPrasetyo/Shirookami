@@ -1,6 +1,6 @@
 ---
 title: "Bab 3 Kebijakan & Perencanaan Sistem"
-date: 2023-11-22
+date: 2023-11-23
 draft: false
 description: "KEBIJAKAN & PERENCANAAN SISTEM"
 slug: "kebijakan-perencanaan-sistem"
