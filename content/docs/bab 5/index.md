@@ -57,3 +57,41 @@ Bagaimanakah strategi yang digunakan oleh Perusahaan Anda dalam memperkenalkan p
 + a. Check-off questions : macam dari pertanyaan-pertanyaan ini dibuat sehingga responden dapat memeriksa (check-off) jawaban-jawaban yang sesuai.
 + b. Yes/No questions : macam dari pertanyaan-pertanyaan ini memungkinkan responden untuk menjawab ‘ya’ atau ‘tidak’.
 + c. Opinion/Choice questions : macam dari pertanyaan-pertanyaan ini memungkinkan responden untuk memberikan pendapatnya.
+
+## Contoh Check-off Question
+
+Untuk memastikan semua elemen penting telah ditangani:
+
+- [X] Apakah kebutuhan pengguna (mahasiswa dan staf pengajar) sudah teridentifikasi secara detail?
+- [ ] Apakah sudah dilakukan analisis terhadap sistem informasi perpustakaan yang ada?
+- [X] Apakah fitur pencarian koleksi perpustakaan sudah direncanakan?
+- [ ] Apakah sistem akan mendukung peminjaman dan pengembalian buku secara otomatis?
+- [ ] Apakah fitur reservasi buku online sudah termasuk dalam desain sistem?
+- [ ] Apakah kebutuhan perangkat keras dan lunak sudah diidentifikasi?
+- [ ] Apakah rencana keamanan data (backup, enkripsi) sudah ada?
+- [ ] Apakah sistem akan terintegrasi dengan sistem informasi akademik yang sudah ada?
+- [ ] Apakah telah ditentukan metode pelatihan untuk pengguna sistem?
+
+## Contoh Yes/No Question
+
+Untuk konfirmasi cepat mengenai keputusan dan fitur:
+
+- Apakah sistem akan tersedia untuk akses mobile?
+- Apakah akan ada fitur untuk memberikan ulasan dan rating terhadap buku?
+- Apakah sistem perlu mendukung multiple languages?
+- Apakah akan ada integrasi dengan digital library atau repositori lainnya?
+- Apakah penggunaan sistem memerlukan autentikasi login?
+
+## Contoh Opinion Question
+
+Untuk mendapatkan masukan yang lebih subjektif dan mendalam:
+
+- Bagaimana pendapat Anda tentang antarmuka pengguna yang ideal untuk sistem informasi perpustakaan ini?
+
+- Fitur apa yang Anda anggap paling penting untuk diimplementasikan dalam sistem ini?
+
+- Bagaimana sistem ini dapat membantu meningkatkan efisiensi operasional perpustakaan?
+
+- Apa pendapat Anda tentang penggunaan teknologi RFID untuk manajemen koleksi buku?
+
+- Dari pengalaman Anda, apa tantangan utama dalam menggunakan sistem informasi perpustakaan sebelumnya?

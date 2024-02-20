@@ -18,7 +18,7 @@ Sistem analis dapat mendesain model dari sistem informasi yang diusulkan dalam b
 
 Data Flow Diagram digunakan untuk menggambarkan suatu sistem yang telah ada atau sistem baru yang akan dikembangkan secara logika.
 
-1. Simbol yang digunakan dalam Data Flow Diagram
+**Simbol yang digunakan dalam Data Flow Diagram**
 + External Entity (Kesatuan Luar)
 
 + Data Flow (Arus Data)
@@ -26,6 +26,8 @@ Data Flow Diagram digunakan untuk menggambarkan suatu sistem yang telah ada atau
 + Process (Proses)
 
 + Data Store (Simpanan Data)
+
+![atribute](https://www.researchgate.net/publication/361683831/figure/fig1/AS:11431281099617695@1669286487252/Symbols-Used-in-DFD-Modeling-13.ppm)
 
 
 1. **External Entity (Kesatuan Luar)**
@@ -73,6 +75,9 @@ Simpanan data merupakan simpanan dari data yang dapat berupa:
 
 + d. Suatu agenda atau buku
 
+
+
+
 ## Bentuk Data Flow Diagram
 
 Terdapat 2 bentuk Data Flow Diagram yaitu Physical Data Flow Diagram (Diag. Arus Dt Fisik) dan Logical Data Flow Diagram (Diag. Arus Dt Logika). Data Flow Diagram Fisik lebih tepat digunakan untuk menggambarkan sistem yang ada (sistem lama) dan lebih menekankan pada bagaimana proses dari sistem yang diterapkan. Sedangkan diagram arus data logika digunakan utk menggambarkan sistem yang akan diusulkan dan lebih menekankan proses-proses apa yang terdapat dalam sistem.
@@ -96,13 +101,74 @@ contoh :
 
 6. Gambarlah DAD utk level-level berikutnya yaitu level 1 dst utk tiap-tiap proses yg dipecah-pecah sesuai dengan bagan berjenjangnya.
 
+## Langkah Langkah Desain Secara Umum
+
+1. **Desain Input:**
+
++ a. Identifikasi Kebutuhan Pengguna:
+Lakukan analisis kebutuhan pengguna untuk menentukan jenis data yang diperlukan.
+
++ b. Pilih Metode Input:
+Tentukan cara pengguna akan memasukkan data (misalnya, formulir web, antarmuka pengguna grafis, dll.).
+
++ c. Validasi Input:
+Rencanakan mekanisme validasi untuk memastikan bahwa data yang dimasukkan pengguna sesuai dengan kebutuhan sistem.
+
+2. **Desain Output:**
+
++ a. Definisi Format Output:
+Tentukan format keluaran yang diinginkan, seperti laporan, grafik, atau antarmuka pengguna.
+
++ b. Pilih Metode Output:
+Tentukan cara informasi akan disampaikan kepada pengguna (misalnya, cetak, tampilan layar, atau pengiriman email).
+
++ c. Desain Responsif:
+Pastikan output dapat diakses dengan baik pada berbagai perangkat dan resolusi layar.
+
+3. **Desain Database:**
+
++ a. Analisis Kebutuhan Data:
+Tentukan jenis data yang akan disimpan dan hubungan antar mereka.
+
++ b. Normalisasi Database:
+Terapkan aturan normalisasi untuk menghindari duplikasi data dan meningkatkan efisiensi penyimpanan.
+
++ c. Pemilihan Sistem Manajemen Basis Data (DBMS):
+Pilih DBMS yang sesuai dengan kebutuhan aplikasi Anda (misalnya, MySQL, PostgreSQL, atau MongoDB).
+
++ d. Desain Skema Database:
+Tentukan struktur tabel, kunci primer, kunci asing, dan indeks.
+
+**4. Desain Teknologi:**
+
++ a. Pilih Platform:
+Tentukan platform atau lingkungan tempat aplikasi akan diimplementasikan (misalnya, web, mobile, atau desktop).
+
++ b. Pilih Bahasa Pemrograman:
+Pilih bahasa pemrograman yang sesuai dengan kebutuhan aplikasi dan preferensi tim pengembang.
+
++ c. Integrasi API:
+Tentukan apakah perlu mengintegrasikan aplikasi dengan layanan pihak ketiga melalui API.
+
++ d. Keamanan:
+Rencanakan langkah-langkah keamanan, seperti otentikasi pengguna, enkripsi data, dan perlindungan terhadap serangan.
+
+## Diagram Konteks dan Bagan Berjenjang Sistem Poliklinik 
+
+{{< figure src="/Bagan_Berjenjang.jpg" alt="bagan" title="bagan" >}}
+
+
 ## Desain Input Secara Umum
 Berikut adalah desain input `Login` untuk menginputkan email dan password jika inputan sesuai maka akan di lanjutkan ke step berikutnya
 
 {{< figure src="/login.png" alt="Login" title="Login desain" >}}
 
 ## Desain Output Secara Umum
-Berikut adalah desain output `Dashboard` dari aplikasi saya untuk men tracking device yang sering digunakan, lagu yang sering di dengarkan, game yang sering dimainkan, bahasa pemograman / framework yang sering di gunakan dan sebagai nya 
+Berikut adalah desain output `Dashboard` dari aplikasi Rumah Sakit
 
-(ALDP = AL Farizi Dwi Prasetyo)
-{{< figure src="/dashboard.png" alt="Dashboard" title="Dashboard desain" >}}
+{{< figure src="/dashboard2.png" alt="Dashboard" title="Dashboard desain" >}}
+
+## Desain Menu User Interface Secara Umum
+Berikut adalah desain menu nya
+
+{{< figure src="/menu ui.png" alt="Dashboard" title="Menu desain" >}}

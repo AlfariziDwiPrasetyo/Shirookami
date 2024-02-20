@@ -105,3 +105,12 @@ Yaitu bila relasi tersebut merupakan 1 NF dan setiap atribut tergantung penuh pa
 
 + Bentuk Normal Ketiga (3 NF)
 Yaitu bila relasi merupakan 2 NF dan tidak bergantung secara transitif pada primary key
+
+## Contoh Flowmap Pada Sistem Poliklinik
+
+{{< figure src="/1.jpg" alt="bagan" title="bagan" >}}
+{{< figure src="/2.jpg" alt="bagan" title="bagan" >}}
+
+## Contoh Flowmap Pada Sistem Informasi Akademik
+{{< figure src="/3.jpg" alt="bagan" title="bagan" >}}
+{{< figure src="/4.jpg" alt="bagan" title="bagan" >}}
