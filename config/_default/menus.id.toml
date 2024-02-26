@@ -21,8 +21,8 @@
   weight = 15
 
 [[main]]
-  name = "Author"
-  pageRef = "users"
+  name = "Music"
+  pageRef = "musics"
   weight = 90
 
 #[[main]]

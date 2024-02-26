@@ -27,7 +27,7 @@ Data Flow Diagram digunakan untuk menggambarkan suatu sistem yang telah ada atau
 
 + Data Store (Simpanan Data)
 
-![atribute](https://www.researchgate.net/publication/361683831/figure/fig1/AS:11431281099617695@1669286487252/Symbols-Used-in-DFD-Modeling-13.ppm)
+![atribute](https://123projectlab.com/wp-content/uploads/2020/01/DFD-Symbol1.jpg)
 
 
 1. **External Entity (Kesatuan Luar)**
