@@ -1,10 +1,10 @@
 ---
-title: "Bab 2 APBO : Perancangan Sistem"
+title: "Perancangan Sistem"
 date: 2025-04-07
 draft: false
 description: "Analisis & perancangan berorientasi objek bab 2"
 slug: "perancangan-sistem-apbo"
-tags: ["APBO"]
+tags: ["Analisis & perancangan berorientasi objek"]
 series: ["APBO"]
 series_order: 2
 showAuthor: true
