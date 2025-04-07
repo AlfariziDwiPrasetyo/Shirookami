@@ -1,5 +1,5 @@
 ---
-title: "Bab 10 Implementasi Sistem"
+title: "Implementasi Sistem"
 date: 2024-01-08
 draft: false
 description: "IMPLEMENTASI SISTEM"

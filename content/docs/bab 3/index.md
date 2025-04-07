@@ -1,5 +1,5 @@
 ---
-title: "Bab 3 Kebijakan & Perencanaan Sistem"
+title: "Kebijakan & Perencanaan Sistem Informasi"
 date: 2023-11-23
 draft: false
 description: "KEBIJAKAN & PERENCANAAN SISTEM"

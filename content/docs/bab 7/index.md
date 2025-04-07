@@ -1,5 +1,5 @@
 ---
-title: "Bab 7 Desain Sistem Secara Umum"
+title: "Desain Sistem Secara Umum"
 date: 2024-01-04
 draft: false
 description: "DESAIN SISTEM SECARA UMUM"

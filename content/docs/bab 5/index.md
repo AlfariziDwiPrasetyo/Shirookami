@@ -1,5 +1,5 @@
 ---
-title: "Bab 5 Teknik Pengumpulan Data"
+title: "Teknik Pengumpulan Data"
 date: 2024-01-02
 draft: false
 description: "TEKNIK PENGUMPULAN DATA"

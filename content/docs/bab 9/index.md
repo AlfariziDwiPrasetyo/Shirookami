@@ -1,5 +1,5 @@
 ---
-title: "Bab 9 Perangkat Permodelan Sistem"
+title: "Perangkat Permodelan Sistem"
 date: 2024-01-07
 draft: false
 description: "PERANGKAT PERMODELAN SISTEM"

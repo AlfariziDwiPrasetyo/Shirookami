@@ -3,7 +3,7 @@ title: "Bab 1 APBO : Konsep Dasar"
 date: 2025-04-07
 draft: false
 description: "Analisis & perancangan berorientasi objek bab1"
-slug: "apbo"
+slug: "konsep-dasar-apbo"
 tags: ["APBO"]
 series: ["APBO"]
 series_order: 1

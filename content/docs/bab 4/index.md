@@ -1,5 +1,5 @@
 ---
-title: "Bab 4 Analisis Sistem"
+title: "Analisis Sistem Informasi"
 date: 2024-01-01
 draft: false
 description: "ANALISIS SISTEM"

@@ -1,5 +1,5 @@
 ---
-title: "Bab 8 Desain Sistem Secara Terinci"
+title: "Desain Sistem Secara Terinci"
 date: 2024-01-06
 draft: false
 description: "DESAIN SISTEM SECARA TERINCI"

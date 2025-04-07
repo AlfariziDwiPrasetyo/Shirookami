@@ -1,5 +1,5 @@
 ---
-title: "Bab 1 Konsep Dasar"
+title: "Konsep Dasar Sistem Informasi"
 date: 2023-11-21
 draft: false
 description: "Konsep Dasar"

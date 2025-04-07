@@ -1,5 +1,5 @@
 ---
-title: "Bab 2 Tinjauan Umum Pengembangan Sistem"
+title: "Tinjauan Umum Pengembangan Sistem"
 date: 2023-11-22
 draft: false
 description: "Tinjauan umum pengembangan sistem"

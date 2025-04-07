@@ -1,5 +1,5 @@
 ---
-title: "Bab 6 Desain Sistem"
+title: "Desain Sistem"
 date: 2024-01-03
 draft: false
 description: "DESAIN SISTEM"
